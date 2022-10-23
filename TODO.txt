@@ -1,0 +1,7 @@
+* corto tiempo:
+    * Estadistica ejercicios
+
+* Largo tiempo:
+    * Big Data
+    * Backend
+    * Dockers
